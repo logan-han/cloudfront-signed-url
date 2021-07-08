@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "logan-test",
+  "version": "0.0.1",
+  "description": "POC for signed cookie auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Han",
+  "dependencies": {
+    "aws-cloudfront-sign": "^2.2.0"
+  }
+}
