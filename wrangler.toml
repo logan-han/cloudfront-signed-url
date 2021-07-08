@@ -1,0 +1,8 @@
+name = "logan-test"
+type = "webpack"
+account_id = "370a1947cad9007ac06a105bc8cb6a9c"
+workers_dev = false
+route = "hub.dev.afterpay-alpha.com/*"
+zone_id = "bf3eb33885f174e5f8c6d46aa846fcd6"
+webpack_config = "webpack.config.js"
+usage_model = "unbound"
