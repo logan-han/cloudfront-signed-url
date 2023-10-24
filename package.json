@@ -9,6 +9,6 @@
   },
   "author": "Logan Han",
   "dependencies": {
-    "aws-cloudfront-sign": "^2.2.0"
+    "aws-cloudfront-sign": "^2.2.1"
   }
 }
